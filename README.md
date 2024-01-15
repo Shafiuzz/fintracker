@@ -1,7 +1,5 @@
 # FinTracker - Expense Tracker App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 FinTracker is a Flutter application that helps you track your expenses and manage category budgets. It provides a user-friendly interface to enter and categorize your expenses, giving you insights into your spending habits and helping you stay within your budget.
 
 ## Features
